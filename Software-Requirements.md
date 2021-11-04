@@ -59,9 +59,7 @@ List the functionality of your product:
 8. A user will see his total score whenever he finish the game.
  
 
-Data Flow
-
-![DataFlow]()
+## Data Flow
 
 1. First step once the user enter the game he will receive a welcoming message.
 2. Second step the user will be able to choose one of the game options (Start, Game Rules, Quit).
