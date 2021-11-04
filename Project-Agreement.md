@@ -2,7 +2,7 @@
 
 ## Errors401 Team
 
-## Team member :
+## Team members :
 1. Adham Mhaydat
 2. Ashrf Obidat
 3. Aseel Alsaqer
